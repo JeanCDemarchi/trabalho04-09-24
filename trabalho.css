@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: url('https://ascenty.com/wp-content/uploads/2022/04/tecnologia-na-educa%C3%A7%C3%A3o-1920x1000-c-default.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: rgba(252, 249, 249, 0.714);
+    text-align: center;
+}
+h2{
+    color: rgba(122, 122, 122, 0.625);
+}
